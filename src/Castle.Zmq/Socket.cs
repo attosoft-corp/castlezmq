@@ -2,8 +2,7 @@
 {
 	using System;
 	using System.Runtime.InteropServices;
-	using System.Runtime.Remoting.Services;
-	using System.Text;
+    using System.Text;
 
 
 	public class Socket : IZmqSocket, IDisposable
